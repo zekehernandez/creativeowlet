@@ -14,7 +14,7 @@ $indent-var                 : 1.3em !default;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif !default;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif                 : "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -22,15 +22,18 @@ $sans-serif-narrow          : $sans-serif !default;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 /* serif typefaces */
+$sanchez                    : Sanchez, serif !default;
 $georgia                    : Georgia, serif !default;
 $times                      : Times, serif !default;
 $bodoni                     : "Bodoni MT", serif !default;
 $calisto                    : "Calisto MT", serif !default;
 $garamond                   : Garamond, serif !default;
+$glegoo                     : glegoo, serif !default;
 
 $global-font-family         : $sans-serif !default;
 $header-font-family         : $sans-serif !default;
 $caption-font-family        : $serif !default;
+$title-font-family          : $glegoo !default;
 
 /* type scale */
 $type-size-1                : 2.441em !default;  // ~39.056px
@@ -51,7 +54,7 @@ $gray                       : #7a8288 !default;
 $dark-gray                  : mix(#000, $gray, 40%) !default;
 $darker-gray                : mix(#000, $gray, 60%) !default;
 $light-gray                 : mix(#fff, $gray, 50%) !default;
-$lighter-gray               : mix(#fff, $gray, 90%) !default;
+$lighter-gray               : mix(#fff, rgba(168, 212, 173, 1), 75%) !default;
 
 $body-color                 : #fff !default;
 $background-color           : #fff !default;
@@ -60,7 +63,7 @@ $code-background-color-dark : $light-gray !default;
 $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
 
-$primary-color              : #7a8288 !default;
+$primary-color              : rgba(146, 185, 189, 1);
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
