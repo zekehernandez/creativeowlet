@@ -2,7 +2,7 @@
 layout: single
 title:  "Sword and Gauntlet"
 date:   2017-09-21
-categories: game 2d platformer
+tags: game 2d platformer
 ---
 A 2D platformer where the main character has a gauntlet and sword that are
 connected by magic and/or magnetism. The player can throw the sword which can 
