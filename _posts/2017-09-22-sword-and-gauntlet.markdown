@@ -24,7 +24,7 @@ sword and zipping over to it.
 #### Potential Issues
 - The sword could end up in a place that you can't zip to and retrieve.
 - It could be difficult to throw the sword with accuracy (which would be frustrating).
-- You could throw your sword in the air, zip to it and catch, throw again even higher; infinitely flying higher and higher.
+- You could throw your sword in the air, zip to it and catch, throw it again even higher; infinitely flying higher and higher.
 
 #### Other Ideas
 - The character can also grab on to things/enemies. 
