@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Sword and Gauntlet
-date: 2017-09-25
+date: {}
 tags: game 2d platformer
 published: true
 ---
@@ -24,7 +24,7 @@ sword and zipping over to it.
 #### Potential Issues
 - The sword could end up in a place that you can't zip to and retrieve.
 - It could be difficult to throw the sword with accuracy (which would be frustrating).
-- You could do a throw sword in the air, zip to it and catch and throw even higher, infinitely flying higher and higher.
+- You could throw your sword in the air, zip to it and catch and throw even higher, infinitely flying higher and higher.
 
 #### Other Ideas
 - The character can also grab on to things/enemies. 
