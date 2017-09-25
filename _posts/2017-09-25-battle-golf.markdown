@@ -17,6 +17,7 @@ The players will take turns and try to move within striking distance with their 
 #### Other Ideas
 
 ### Game Modes
+- Driving range / target practice: try to get a high score, blowing up as many targets within the time limit
 
 ### Controls
 Think of any golf game really.
