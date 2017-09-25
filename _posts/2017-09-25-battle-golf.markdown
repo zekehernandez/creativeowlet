@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Golf. But with bombs. Instead of trying to get a hole-in-one, each player is trying to be the last man standing.
+Golf, but with bombs. Instead of trying to get a hole-in-one, each player is trying to be the last man standing.
 
 ## Gameplay
 ### Mechanics
