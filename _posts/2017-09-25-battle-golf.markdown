@@ -16,6 +16,8 @@ The players will take turns and try to move within striking distance with their 
 
 #### Other Ideas
 
+### Game Modes
+
 ### Controls
 Think of any golf game really.
 
