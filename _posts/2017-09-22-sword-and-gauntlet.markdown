@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Sword and Gauntlet
-date: {}
+date: 2017-09-25
 tags: game 2d platformer
 published: true
 ---
