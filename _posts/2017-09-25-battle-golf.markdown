@@ -22,7 +22,3 @@ The players will take turns and try to move within striking distance with their 
 
 ### Controls
 Think of any golf game really.
-
-## Story
-
-### Characters
