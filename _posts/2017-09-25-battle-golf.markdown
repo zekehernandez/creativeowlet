@@ -5,7 +5,7 @@ published: false
 
 ## Gameplay
 ### Mechanics
-Golf, but with exploding balls.
+Golf, but with bombs instead of balls. 
 
 #### Scenarios
 
