@@ -9,7 +9,6 @@ Each player starts in separate areas of a golf course. The golf swinging mechani
 
 The players will take turns and try to move within striking distance with their normal golf balls, and then attack with their bomb balls. Obviously, the more accurate you are at a long distance, the better off you will be.
 
-
 #### Scenarios
 
 #### Potential Issues
