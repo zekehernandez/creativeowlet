@@ -12,6 +12,7 @@ The players will take turns and try to move within striking distance with their 
 #### Scenarios
 
 #### Potential Issues
+- No one wants to move in closer to their enemies, so everyone just takes super far potshots until they get lucky.
 
 #### Other Ideas
 
