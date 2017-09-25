@@ -18,6 +18,7 @@ The players will take turns and try to move within striking distance with their 
 
 ### Game Modes
 - Driving range / target practice: try to get a high score, blowing up as many targets within the time limit
+- Horde mode: hordes of enemies slowly approach your position, fend them off for as long as you can
 
 ### Controls
 Think of any golf game really.
