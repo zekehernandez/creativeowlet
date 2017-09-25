@@ -1,8 +1,9 @@
 ---
 layout: single
-title:  "Sword and Gauntlet"
-date:   2017-09-21
+title: Sword and Gauntlet
+date: {}
 tags: game 2d platformer
+published: true
 ---
 A 2D platformer where the main character has a gauntlet and sword that are
 connected by magic and/or magnetism. The player can throw the sword which can 
@@ -22,7 +23,8 @@ sword and zipping over to it.
 
 #### Potential Issues
 - The sword could end up in a place that you can't zip to and retrieve.
-- It coul be difficult to throw the sword with accuracy (which would be frustrating)
+- It could be difficult to throw the sword with accuracy (which would be frustrating).
+- You could do a throw sword in the air, zip to it and catch and throw even higher, infinitely flying higher and higher.
 
 #### Other Ideas
 - The character can also grab on to things/enemies. 
