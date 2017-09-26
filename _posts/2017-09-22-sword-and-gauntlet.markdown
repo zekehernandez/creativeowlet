@@ -11,26 +11,21 @@ stick to things; and then he can use his gauntlet to fly towards wherever the
 sword is.
 
 ## Gameplay
-### Mechanics
 Traversal and combat are performed primarily by combinations of throwing the 
 sword and zipping over to it. 
-
-#### Scenarios
+### Scenarios
 - Long gap? Throw sword over the gap and when it's over the middle, zip to it, allowing the momentum to carry you over.
 - Suspicious looking wall? Throw sword into it, then zip to it, allowing the momentum to break you through it (works on some enemies as well).
 - Use the sword in wall technique to wall jump sort of.
 - There is an enemy that cannot be poked by the sword. You have to throw the sword over and behind it, then zip to the sword to mega punch the enemy.
-
-#### Potential Issues
+### Potential Issues
 - The sword could end up in a place that you can't zip to and retrieve.
 - It could be difficult to throw the sword with accuracy (which would be frustrating).
 - You could throw your sword in the air, zip to it and catch, throw it again even higher; infinitely flying higher and higher.
-
 #### Other Ideas
 - The character can also grab on to things/enemies. 
   - Grab an enemy, throw your sword in the air, zip to it, release enemy, watch it fly.
   - There's something really heavy that needs to be moved, pushing it or pulling it won't work. So you grab it, and use the sword throw/zip combo.
-
 ### Controls
 - Left Stick: player movement
 - Right Stick: aiming
@@ -38,7 +33,6 @@ sword and zipping over to it.
 - Face Button: basic attack
 - Left Trigger: grab something
 - Right Trigger: throw sword / zip to sword
-
 ## Story
 You are a young person and your father is a great warrior, maybe a king. You 
 really look up to your dad. His iconic weapons of choice a magic gauntlet and 
