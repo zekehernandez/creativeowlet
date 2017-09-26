@@ -2,7 +2,7 @@
 layout: single
 title: Sword and Gauntlet
 date: 2017-09-25
-tags: game 2d platformer
+tags: game 2d platformer action single-player
 published: true
 ---
 A 2D platformer where the main character has a gauntlet and sword that are
