@@ -21,7 +21,8 @@
     display: flex;
     -webkit-box-pack: justify;
     justify-content: space-between;
-    font-family: $title-font-family;
+    font-family: $sans-serif;
+    
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -45,6 +46,7 @@
   -webkit-box-align: center;
         align-items: center;
   font-weight: bold;
+  font-family: $title-font-family;
   z-index: 20;
 }
 
