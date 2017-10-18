@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Find inspiration for your next (or first!) video game creation. Feel free to use
+Find inspiration for your next (or first!) indie game creation. Feel free to use
 an entire idea as a launching point, or pick and choose different parts as you please. 
 Credit to the author is not required but always appreciated.
 
