@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Creative Owlet"
 title_separator          : "-"
-name                     : "Zeke Hernandez"
+name                     : "Creative Owlet"
 description              : "Find inspiration for the next great indie game at Creative Owlet or share your own and inspire others!"
 url                      : "http://creativeowlet.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
