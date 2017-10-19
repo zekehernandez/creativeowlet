@@ -2,6 +2,8 @@
 layout: single
 title: Sword and Gauntlet
 date: 2017-09-25
+header:
+  image: /assets/images/sag-main.png
 tags: game 2d platformer action single-player
 published: true
 ---
@@ -18,6 +20,7 @@ sword and zipping over to it.
 - Long gap? Throw sword over the gap and when it's over the middle, zip to it, allowing the momentum to carry you over.
 - Suspicious looking wall? Throw sword into it, then zip to it, allowing the momentum to break you through it (works on some enemies as well).
 - Use the sword in wall technique to wall jump sort of.
+![image-right](/assets/images/sag-wg.gif){: .align-right}
 - There is an enemy that cannot be poked by the sword. You have to throw the sword over and behind it, then zip to the sword to mega punch the enemy.
 
 ### Potential Issues
