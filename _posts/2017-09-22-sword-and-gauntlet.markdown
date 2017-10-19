@@ -7,8 +7,8 @@ header:
 tags: game 2d platformer action single-player
 published: true
 ---
-A 2D platformer where the main character has a gauntlet and sword that are
-connected by magic and/or magnetism. The player can throw the sword which can 
+A 2D platformer where the main character has a gauntlet and sword that are connected 
+by magic and/or magnetism. The player can throw the sword which can 
 stick to things; and then he can use his gauntlet to fly towards wherever the
 sword is.
 
