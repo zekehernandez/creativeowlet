@@ -1,0 +1,17 @@
+---
+layout: single
+title: Heist
+date: 2017-10-20
+tags: game rpg tactical single-player
+published: false
+---
+A tactical RPG where the objective is to pull off a heist, Ocean's Eleven style. 
+You have a crew of con artists, pickpockets, mechanics, munition experts, etc. Your goal is to steal back what was taken from you.
+
+## Gameplay
+
+### Scenarios
+
+### Potential Issues
+
+#### Other Ideas
