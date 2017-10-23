@@ -6,12 +6,24 @@ tags: game rpg tactical single-player
 published: false
 ---
 A tactical RPG where the objective is to pull off a heist, Ocean's Eleven style. 
-You have a crew of con artists, pickpockets, mechanics, munition experts, etc. Your goal is to steal back what was taken from you.
+You have a crew of con artists, pickpockets, mechanics, hackers, munition experts, etc. Your goal is to steal back what was taken from you.
 
 ## Gameplay
+The main portion of the game takes place on several layers of grids, one for each story or level of the playing field. Each level could be procedurally generated, but I think handmade levels will suit this game better. Most levels will probably be a large building of some sort (think casino, shopping mall, resort, etc). The player chooses a team to do the heist on each level, they want to pick a balanced team that will likely succeed at the objective. Each level will have multiple entry points and the player assigns which of the team members will start at which entry point. 
+
+The game then plays like your typical tactical RPG (think Final Fantasy Tactics, X-COM, or Bannerlord Saga). Each unit has a certain number of grid spaces they can move each turn, and a set of actions that they can perform (which grows as the player progresses). Along with the player's units, each level will be populated with civilian units who just go about their business, and enemy units (security guards, building employees, etc). 
+
+### Enemy units
+Security guards are actively looking for suspicious activity, while other enemy units will only report something if it is overtly wrong, like theft, assault, or trespassing. Each enemy unit also has turns, and in each turn will move a certain number of spaces. Furthermore, enemy units have a field of vision; anything done outside of these fields of vision will not be noticed. If a security guard catches one of the player's units doing something suspicious, they will pursue and interrogate. If a security guard catches the player's doing something overtly wrong, or is convinced by interrogation that the unit has committed a crime, that player's unit will be removed from play.
+
+### Player units
+
+
 
 ### Scenarios
 
 ### Potential Issues
 
 #### Other Ideas
+
+## Story
