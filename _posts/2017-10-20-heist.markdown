@@ -17,8 +17,35 @@ The game then plays like your typical tactical RPG (think Final Fantasy Tactics,
 Security guards are actively looking for suspicious activity, while other enemy units will only report something if it is overtly wrong, like theft, assault, or trespassing. Each enemy unit also has turns, and in each turn will move a certain number of spaces. Furthermore, enemy units have a field of vision; anything done outside of these fields of vision will not be noticed. If a security guard catches one of the player's units doing something suspicious, they will pursue and interrogate. If a security guard catches the player's doing something overtly wrong, or is convinced by interrogation that the unit has committed a crime, that player's unit will be removed from play.
 
 ### Player units
-
-
+#### Con Artist
+This unit is an all-around unit who excels at deception and persuasion. This unit can charm his way in and out of any situation, blend in or stand out, depending on what is needed. If anyone can pull off a disguise, it's the con artist.
+##### Abilities
+- Put on disguise
+- Persuade
+- Cause scene
+#### Pickpocket
+This unit has mastered sleight-of-hand, and can swipe something without even the keenest of eyes noticing. Furthermore, she can plant objects (tracking devices, recording devices, etc) on other people without them realizing.
+##### Abilities
+- Steal
+- Swipe Keys
+- Plant object
+#### Munitions Expert
+This unit is a great help in a pinch. Has the heist gone south and the player needs to make a quick exit? The munitions expert can blow a hole in the wall; that'll do the trick.
+##### Abilities
+- Plant explosive
+- EMP blast
+- Breach door
+#### Hacker
+This unit can quickly take over a security cameras, keypads, you name it. 
+##### Abilities
+- Disable
+- Hack
+#### Muscle
+If it comes down to fisticuffs, you'll be glad you have one of these with you.
+##### Abilities
+- Interrogate
+- Takedown
+- Intimidate
 
 ### Scenarios
 
