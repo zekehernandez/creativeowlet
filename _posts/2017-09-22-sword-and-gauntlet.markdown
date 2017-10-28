@@ -24,18 +24,6 @@ sword and zipping over to it.
 - There is an enemy that cannot be poked by the sword. You have to throw the sword over and behind it, then zip to the sword to mega punch the enemy.
 ![image-center](/assets/images/sag-te.gif){: .align-center}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;border:none;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5182701403203784"
-     data-ad-test="on"
-     data-ad-slot="3681200381"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ### Potential Issues
 - The sword could end up in a place that you can't zip to and retrieve.
 - It could be difficult to throw the sword with accuracy (which would be frustrating).
