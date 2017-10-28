@@ -39,6 +39,9 @@ layout: default
       </section>
 
       <footer class="page__meta">
+        {% include adsense-content.html %}
+        <br >
+        
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
@@ -54,12 +57,13 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-    
+
 
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
   </article>
+
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
