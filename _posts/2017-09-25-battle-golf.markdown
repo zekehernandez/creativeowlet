@@ -2,6 +2,8 @@
 layout: single
 title: Battle Golf
 date: 2017-09-26
+header:
+  image: /assets/images/bg-main.png
 tags: game 3d sports action multiplayer
 published: true
 ---
@@ -13,6 +15,11 @@ Each player starts in separate areas of a golf course. The golf swinging mechani
 The players will take turns and try to move within striking distance of their opponents with their normal golf balls, and then attack with their bomb balls. Obviously, the more accurate you are at a long distance, the better off you will be.
 
 Again, the goal is either to be the last one standing or the player with the most points after a certain number of rounds.
+
+Here's an example of what the main game would look like:
+![image-center](/assets/images/bg-hud.png){: .align-center}
+There's a mini-map in the top-left corner, and the bottom-right corner shows
+which club the player has selected and the ball type.
 
 ### Potential Issues
 - No one wants to move in closer to their enemies, so everyone just takes super far potshots until they get lucky
