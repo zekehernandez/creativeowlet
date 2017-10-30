@@ -12,7 +12,7 @@ Collect tiny battle bots to battle other tiny battle bots. Each bot has certain 
 ## Gameplay
 The world is populated with tiny battling robots. Each robot has different actions it can perform, a traveling mechanism, sensors, and targeting systems. The player's goal is to collect these bots and use them to battle other groups of bots. However, for the battling, the player is hardly involved at all. Each battle is a 3v3 team battle. The player will choose 3 of his own bots to enter battle. From there it's up to his bots to win on their own. Each bot will follow it's programming, and hopefully defeat the other team.
 
-![image-center](/assets/images/bb-gp.gif){: .align-center}
+![image-center](/assets/images/bb-gp.png){: .align-center}
 
 Players can aqcuire new bots by a loot box system, from winning a battle, generating them from parts, or fulfilling certain requirements. Bots are ranked not only by their health, attack power, and speed; but also by their directives, or how smart they are. 
 
