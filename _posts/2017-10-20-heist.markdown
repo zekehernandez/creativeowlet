@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Heist
-date: 2017-10-20
+date: 2017-11-04
 tags: game rpg tactical single-player
-published: false
+published: true
 ---
 A tactical RPG where the objective is to pull off a heist, Ocean's Eleven style. 
 You have a crew of con artists, pickpockets, mechanics, hackers, munition experts, etc. Your goal is to steal back what was taken from you.
@@ -17,40 +17,62 @@ The game then plays like your typical tactical RPG (think Final Fantasy Tactics,
 Security guards are actively looking for suspicious activity, while other enemy units will only report something if it is overtly wrong, like theft, assault, or trespassing. Each enemy unit also has turns, and in each turn will move a certain number of spaces. Furthermore, enemy units have a field of vision; anything done outside of these fields of vision will not be noticed. If a security guard catches one of the player's units doing something suspicious, they will pursue and interrogate. If a security guard catches the player's doing something overtly wrong, or is convinced by interrogation that the unit has committed a crime, that player's unit will be removed from play.
 
 ### Player units
+Each player unit can learn several abilities, some abilities can only be learned by certain classes, but others anyone can learn.
+
 #### Con Artist
 This unit is an all-around unit who excels at deception and persuasion. This unit can charm his way in and out of any situation, blend in or stand out, depending on what is needed. If anyone can pull off a disguise, it's the con artist.
-##### Abilities
+##### Class Abilities
 - Put on disguise
-- Persuade
-- Cause scene
+- Persuade: charm someone (civillian or enemy) into doing something
+- Cause scene: direct attention of nearby units towards self
 #### Pickpocket
 This unit has mastered sleight-of-hand, and can swipe something without even the keenest of eyes noticing. Furthermore, she can plant objects (tracking devices, recording devices, etc) on other people without them realizing.
-##### Abilities
-- Steal
+##### Class Abilities
+- Steal: think the beginning of Indiana Jones, steal and replace
 - Swipe Keys
-- Plant object
+- Plant object: plant a recording device, tracker, etc on a unit
 #### Munitions Expert
 This unit is a great help in a pinch. Has the heist gone south and the player needs to make a quick exit? The munitions expert can blow a hole in the wall; that'll do the trick.
-##### Abilities
+##### Class Abilities
 - Plant explosive
-- EMP blast
+- EMP blast: disable all nearby electronics
 - Breach door
 #### Hacker
 This unit can quickly take over a security cameras, keypads, you name it. 
-##### Abilities
+##### Class Abilities
 - Disable
 - Hack
 #### Muscle
 If it comes down to fisticuffs, you'll be glad you have one of these with you.
-##### Abilities
-- Interrogate
-- Takedown
-- Intimidate
+##### Class Abilities
+- Interrogate: sneak behind a guard to gain intel
+- Takedown Assault: directly approach a guard and knock them out
+- Intimidate: sneak behind a guard to pressure them to do something
+
+### All Class Abilities
+- Stealth Takedown: come up behind a guard and knock them out
+- Carry: pick up and move the bodies of unconcious guards
 
 ### Scenarios
+#### Two guards stand in front of a locked door
+- The Con Artist does Make A Scene nearby. One guard walks over to investigate, and the other is now facing the scene. Another unit sneaks behind that guard and does Stealth Takedown and Carries the body away, stealing their keycard
+- The Con Artist has a disguise that has the guards open the door for her
+- The Munitions Expert sets off an explosion out of the sight of the guards, but the sound causes them to both investigate. The Hacker can then hack the door to enter.
+#### A teammate needs to be rescued from a prison cell
+- The Hacker can open the door from a control panel
+- The Pickpocket can steal a keycard from a guard
+- The Munitions Expert can blow a hole in the floor from the level below
 
 ### Potential Issues
+- Designing multiple interesting levels could be difficult
+- Encouraging players to try different techniques could also be difficult
 
 #### Other Ideas
+- An alert meter: either per enemy unit, or for the level as a whole. Different actions raise the level of alert, the higher the alert, the less the player units can get away with without being detained
+- Semi-permadeath: if a player unit gets caught, the player can't use that unit again until they are released from prison or the player can attempt to break that unit out of prison
+- Instead of a different stage/level for each mission, there are only a handful of large levels that each have several different missions that can occur there
+- Walking and running: on a units turn, they can travel a certain distance if they walk; but they can go much further if they run. However, running is deemed suspicious in many occasions
+- A pre-mission scout: before a mission, the player can play a pre-mission scout with a couple units to investigate the area and gather some intel
 
 ## Story
+Some players may have issues with playing as common criminals, so perhaps have the player units be a part of rebellion or something that steals from an evil empire or regime.
