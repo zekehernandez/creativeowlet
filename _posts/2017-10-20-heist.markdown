@@ -2,6 +2,8 @@
 layout: single
 title: Heist
 date: 2017-11-04
+header:
+  image: /assets/images/heist-main.png
 tags: game rpg tactical single-player
 published: true
 ---
