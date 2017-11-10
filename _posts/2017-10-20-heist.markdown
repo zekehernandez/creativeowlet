@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Heist
-date: 2017-11-04
+date: 2017-11-10
 header:
   image: /assets/images/heist-main.png
 tags: game rpg tactical single-player
@@ -51,15 +51,25 @@ If it comes down to fisticuffs, you'll be glad you have one of these with you.
 - Takedown Assault: directly approach a guard and knock them out
 - Intimidate: sneak behind a guard to pressure them to do something
 
-### All Class Abilities
+#### All Class Abilities
 - Stealth Takedown: come up behind a guard and knock them out
 - Carry: pick up and move the bodies of unconcious guards
+
+### Walking vs. Running
+In order to avoid suspicion, player units should not run within sight of the enemy units unless absolutely necessary. Getting caught running won't get the unit caught immediately, but it does raise suspicion.
+![image-left](/assets/images/heist-walk-small.gif){: .align-left}
+![image-right](/assets/images/heist-run-small.gif){: .align-right}
+Each turn, every player unit can travel the same distance by walking, shown by the light blue outline. However, depending on the unit's speed, they can travel even further by running, shown by the dark blue outline.
 
 ### Scenarios
 #### Two guards stand in front of a locked door
 - The Con Artist does Make A Scene nearby. One guard walks over to investigate, and the other is now facing the scene. Another unit sneaks behind that guard and does Stealth Takedown and Carries the body away, stealing their keycard
+![image-center](/assets/images/heist-scenario.gif){: .align-center}
+In this image, the blue arrows are civilians, the red arrows enemy units, and the green arrows are player units. The outlines show each units' field of view.
 - The Con Artist has a disguise that has the guards open the door for her
 - The Munitions Expert sets off an explosion out of the sight of the guards, but the sound causes them to both investigate. The Hacker can then hack the door to enter.
+
+
 #### A teammate needs to be rescued from a prison cell
 - The Hacker can open the door from a control panel
 - The Pickpocket can steal a keycard from a guard
