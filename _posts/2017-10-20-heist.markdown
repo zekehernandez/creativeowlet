@@ -57,9 +57,11 @@ If it comes down to fisticuffs, you'll be glad you have one of these with you.
 
 ### Walking vs. Running
 In order to avoid suspicion, player units should not run within sight of the enemy units unless absolutely necessary. Getting caught running won't get the unit caught immediately, but it does raise suspicion.
-![image-left](/assets/images/heist-walk-small.gif){: .align-left}
-![image-right](/assets/images/heist-run-small.gif){: .align-right}
-Each turn, every player unit can travel the same distance by walking, shown by the light blue outline. However, depending on the unit's speed, they can travel even further by running, shown by the dark blue outline.
+
+Each turn, every player unit can travel the same distance by walking, shown by the light blue outline.
+![image-center](/assets/images/heist-walk-small.gif){: .align-center}
+ However, depending on the unit's speed, they can travel even further by running, shown by the dark blue outline.
+![image-center](/assets/images/heist-run-small.gif){: .align-center}
 
 ### Scenarios
 #### Two guards stand in front of a locked door
